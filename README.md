@@ -1,8 +1,7 @@
 ## Olá! Bem vindo ao meu perfil, sou César Silva!
 
-- 💻 Estágio de Laboratorista
-- 💻 Faculdade de Analise e Desenvolvimento de Sistemas (2°Semestre)
-- 👨 Ele/Dele
+- 💻 Estágio de Laboratorista(CIEE)
+- 💻 Faculdade de Analise e Desenvolvimento de Sistemas (4°Semestre)
 
 <div>
   <a href="https://www.instagram.com/cz.boyyy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
